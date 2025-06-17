@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 2D-Game-Platformer-Personal-Project
 WORK IN PROGRESS
 
@@ -76,3 +77,6 @@ The game is currently in development, and this repository contains the project f
 For those interested in *Hollow Knight* sprites, you can find resources below:  
 - **Hollow Knight Sprites (Voidheart Edition) 1.4.3.2:** [Google Drive Link](https://drive.google.com/drive/folders/1lx02_w9TFTYdR3aggI1gbXcLr69roaNV)  
 - **Other Sprite Resources:** [Spriters-Resource](https://www.spriters-resource.com/pc_computer/hollowknight/)
+=======
+# DA_Game_NguyenVanHuy_2020603923
+>>>>>>> 6badf43fe0b9c4e82b076ffa4693e260afc8d26a
